@@ -1,5 +1,4 @@
 # jobsearchapp
-html,css and js use jobsearch website
 
 
 
